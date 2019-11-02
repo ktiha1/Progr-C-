@@ -81,11 +81,11 @@ int main()
 	
 	for (double i = x1; i <= x2+d; i = i + d) {
 		
-		if (i <= a) {
+		if (i <= a+d) {
 			x = abs(i) + sin(i);
 			cout << x << endl;
 		}
-		if ((i > a) && (i < b)) {
+		if ((i > a+d) && (i < b)) {
 			x = log(abs(i)) / log(3.0);
 			cout << x << endl;
 		}
