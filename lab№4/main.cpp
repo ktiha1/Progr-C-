@@ -1,6 +1,4 @@
-//
-// Created by canned_dead on 08.12.2019.
-//
+
 #include "helper.h"
 #include <iostream>
 #include <ctime>
