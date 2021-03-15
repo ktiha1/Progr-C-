@@ -53,7 +53,7 @@
    {
        std::string s;
        httplib::Client cli("api.openweathermap.org", 80);
-       auto result = cli.Get("/data/2.5/forecast?id=693805&APPID=f22a30a0bd02eeadff2e3c5132442df2&units=metric");
+       auto result = cli.Get("/data/2.5/forecast?id=693805&APPID=42fb24046af5e27b1fa6d7e7a583972e&units=metric");
        json j = json::parse(result->body);
        std::cout << j.at("city").at("name") << std::endl;
        int start = j.at("list")[0].at("dt");
