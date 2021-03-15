@@ -1,6 +1,3 @@
-//
-// Created by canned_dead on 23.12.2019.
-//
 #include <fstream>
 #include <iostream>
 #include <string>
