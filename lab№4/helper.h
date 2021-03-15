@@ -1,7 +1,3 @@
-//
-// Created by canned_dead on 08.12.2019.
-//
-
 #ifndef WORKS_HELPER_H
 #define WORKS_HELPER_H
 
@@ -32,4 +28,4 @@ namespace game {
     bool updateGame(Game *);
 }
 
-#endif //WORKS_HELPER_H
+#endif 
