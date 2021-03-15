@@ -63,5 +63,5 @@ main ()
       "lon": 34.11079,
       "lat": 44.957191
 
-    API KEY f22a30a0bd02eeadff2e3c5132442df2
+    API KEY 42fb24046af5e27b1fa6d7e7a583972e
 */  
