@@ -31,10 +31,7 @@
 #### Ход работы
 
 1. Вспомогательный файл
-    ```cpp
-    //
-    // Created by canned_dead on 08.12.2019.
-    //
+    
     #include "helper.h"
     
     #include <cstdlib>
@@ -335,13 +332,10 @@
        }
        std::cout << std::endl;
    }
-    ```
+    
     
 3. Заголовочный файл.
-    ```CPP
-   //
-   // Created by canned_dead on 08.12.2019.
-   //
+   
    
    #ifndef WORKS_HELPER_H
    #define WORKS_HELPER_H
@@ -374,7 +368,7 @@
    }
    
    #endif //WORKS_HELPER_H
-    ```
+ 
    
 #### Ввывод
 
