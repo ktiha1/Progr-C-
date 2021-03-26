@@ -1,6 +1,4 @@
-//
-// Created by canned_dead on 12.12.2019.
-//
+
 #include <iostream>
 #include <ostream>
 #include <cmath>
